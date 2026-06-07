@@ -233,3 +233,6 @@ Verified transaction uniqueness.
 ---
 
 # Preview
+
+![dashboard](https://github.com/user-attachments/assets/21b271df-3960-414d-ada6-93ad9e8cd284)
+
