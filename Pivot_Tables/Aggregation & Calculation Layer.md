@@ -472,3 +472,5 @@ Potential future upgrades include:
 * Business Storytelling
 
 # Preview
+
+![pivot_table](https://github.com/user-attachments/assets/16924bac-5a0a-4f18-99c6-d89420a93c34)
