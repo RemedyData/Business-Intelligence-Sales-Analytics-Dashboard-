@@ -364,5 +364,111 @@ Revenue is overwhelmingly generated from non-B2B customers.
 
 ---
 
-# Preview
+# Validation & Quality Assurance
 
+The following validation checks were performed:
+
+### Revenue Reconciliation
+
+Verified dashboard revenue equals raw data revenue.
+
+---
+
+### Pivot Validation
+
+Confirmed PivotTable totals match source records.
+
+---
+
+### Slicer Testing
+
+Validated all slicers update connected PivotTables correctly.
+
+---
+
+### KPI Verification
+
+Cross-checked KPI values against source calculations.
+
+---
+
+### Duplicate Review
+
+Verified transaction uniqueness.
+
+---
+
+# Challenges Encountered
+
+## Challenge 1
+
+Large transaction dataset slowed dashboard responsiveness.
+
+### Solution
+
+Used PivotTables instead of worksheet formulas for aggregation.
+
+---
+
+## Challenge 2
+
+Revenue calculations required standardization.
+
+### Solution
+
+Created Revenue_Clean field.
+
+---
+
+## Challenge 3
+
+Multiple reporting dimensions complicated dashboard design.
+
+### Solution
+
+Implemented centralized slicer architecture.
+
+---
+
+## Challenge 4
+
+Business users required simplified reporting.
+
+### Solution
+
+Designed KPI-driven executive dashboard.
+
+---
+
+# Future Enhancements
+
+Potential future upgrades include:
+
+* Customer Cohort Analysis
+* Repeat Purchase Analysis
+* Customer Lifetime Value (CLV)
+* RFM Segmentation
+* Forecasting Models
+* Power Query Automation
+* Power Pivot Data Model
+* Geographic Heat Maps
+* Inventory Analytics
+
+---
+
+# Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Sales Analytics
+* Dashboard Design
+* KPI Development
+* Pivot Table Engineering
+* Business Intelligence
+* Data Visualization
+* Geographic Analysis
+* Executive Reporting
+* Excel Automation
+* Business Storytelling
+
+# Preview
